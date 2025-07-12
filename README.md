@@ -10,7 +10,7 @@ This project is a simple AI agent built using LangChain, Chroma, and Ollama to p
 
 ## Prerequisites
 - Python 3.x
-- Required libraries: `langchain_ollama`, `langchain_chroma`, `pandas`
+- Required libraries: `langchain`, `langchain_ollama`, `langchain_chroma`, `pandas`
 
 ## Installation
 1. Clone the repository:
